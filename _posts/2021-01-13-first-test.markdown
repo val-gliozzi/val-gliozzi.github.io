@@ -1,9 +1,0 @@
----
-layout: post
-title:  "My Hello World Kinda Thing"
-date:   2021-01-13 18:03:32 -0500
-categories:
----
-fdahjfdsassfdkjfdskjhkjhkjhkjh
-
-it works

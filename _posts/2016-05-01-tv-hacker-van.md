@@ -8,7 +8,7 @@ image:
   teaser: 2016-05_TVHackerVan/van-1.jpg
 photos:
   set: van
-  size: 50
+  size: 5
   gallery: 2016-05_TVHackerVan
 url: tv-hacker-van
 ---

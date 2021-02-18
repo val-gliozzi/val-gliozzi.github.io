@@ -8,7 +8,7 @@ image:
   teaser: 2019-01_SalvageArcade/arcade-5.jpg
 photos:
   set: arcade
-  size: 21
+  size: 20
   gallery: 2019-01_SalvageArcade
 url: salvage-arcade
 ---

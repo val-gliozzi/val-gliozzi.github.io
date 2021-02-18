@@ -13,6 +13,11 @@ To stop: CTRL + C
 
 To build: bundle exec jekyll build
 
+## Credentials
+Git credentials for local builds
+- git config user.name
+- git config user.name "Mona Lisa"
+
 
 ## New post
 https://jekyllrb.com/docs/posts/

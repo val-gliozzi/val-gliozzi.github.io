@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drone Lynq Integration
-date: 2019-07-14 02:30 -0500
+date: 2019-11-14 02:30 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2019-07_DroneLynqIntegration/drone-1.jpg

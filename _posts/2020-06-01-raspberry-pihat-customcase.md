@@ -4,13 +4,13 @@ title: Raspberry PiHAT + Custom Case
 date: 2020-06-01 02:30 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
-  feature: 2020-06_RaspberryPiHAT-CustomCase/pihat-2.jpg
-  teaser: 2020-06_RaspberryPiHAT-CustomCase/pihat-2.jpg
+  feature: 2020-06_RaspberryPiHAT-CustomCase/pihat-4.jpg
+  teaser: 2020-06_RaspberryPiHAT-CustomCase/pihat-4.jpg
 photos:
   set: pihat
   size: 5
   gallery: 2020-06_RaspberryPiHAT-CustomCase
-url: raspberry-pihat
+url: raspberry-pihat-customcase
 ---
 
 My day job tasked me with integrating our then-flagship product (a personal tracking device) into an entry-level drone as a proof of concept that our technology could be an effective way to manage drone location. Because the size of the drone was quite small, limiting added weight was a priority, the device needed to be stripped as much as possible. 

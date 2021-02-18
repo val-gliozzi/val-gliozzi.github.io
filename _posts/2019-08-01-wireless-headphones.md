@@ -8,7 +8,7 @@ image:
   teaser: 2019-08_WiredHeadphones-WirelessRev2/headphones-4.jpg
 photos:
   set: headphones
-  size: 10
+  size: 9
   gallery: 2019-08_WiredHeadphones-WirelessRev2
 url: wireless-headphones
 ---

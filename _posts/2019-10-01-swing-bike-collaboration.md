@@ -4,11 +4,11 @@ title: Swing Bike Collaboration
 date: 2019-10-14 02:30 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
-  feature: 2019-10_SwingBikeCollaboration/swing-7.jpg
-  teaser: 2019-10_SwingBikeCollaboration/swing-7.jpg
+  feature: 2019-10_SwingBikeCollaboration/swing-6.jpg
+  teaser: 2019-10_SwingBikeCollaboration/swing-6.jpg
 photos:
   set: swing
-  size: 10
+  size: 8
   gallery: 2019-10_SwingBikeCollaboration
 url: swing-bike-collaboration
 ---

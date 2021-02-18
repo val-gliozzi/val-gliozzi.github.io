@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-gist", "~> 1.5"
   gem "webrick"
+  gem 'bourbon'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

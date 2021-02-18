@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passive Mixer
-date: 2021-01-14 02:30 -0500
+date: 2019-03-01 02:30 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2019-03_PassiveMixer/mixer-3.jpg

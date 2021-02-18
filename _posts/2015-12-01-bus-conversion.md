@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Live-in Bus Conversion
-date: 2021-01-13 23:26 -0500
+date: 2015-12-01 23:26 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2015-12_BusConversion/bus-14.jpg

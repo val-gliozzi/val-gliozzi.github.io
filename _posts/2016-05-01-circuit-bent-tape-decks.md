@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circuit Bent Tape Decks
-date: 2021-01-13 23:27 -0500
+date: 2016-05-01 23:27 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2016-01_CircuitBentTapeDecks/tapes-3.jpg

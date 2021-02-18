@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salvage Arcade
-date: 2019-01-14 02:31 -0500
+date: 2019-01-01 02:31 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2019-01_SalvageArcade/arcade-5.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry PiHAT + Custom Case
-date: 2021-01-14 02:30 -0500
+date: 2020-06-01 02:30 -0500
 tags: carpentry mechanics plumbing electrical bus
 image:
   feature: 2020-06_RaspberryPiHAT-CustomCase/pihat-2.jpg

@@ -15,11 +15,11 @@ image:
 	<h3>In my free time, I've:</h3>
 	<p class="intro">
 		<ul>
-			<li>Retrofitted a 35-foot school bus through engine modification, braking system overhaul, mapping and repairing existing electrical systems, and installing solar and plumbing systems</li>
-			<li>Circuit bent tape decks and modified housings for changes modular expansion for a full magnetic-based orchestra of “instruments”</li>
+			<li>Retrofitted a 35-foot school bus through engine modification, braking system overhaul, mapping and repairing existing electrical systems, installing solar and new electrical systems, installing plumbing, and designing and building the interior into a comfortable living space</li>
+			<li>Circuit bent tape decks and modified housings as part of the creation of an orchestra of magnetism-based “instruments”</li>
 			<li>Built an arcade cabinet out of e-waste and reclaimed materials</li>
-			<li>Rebuilt a trashed CO2 laser cutter and implemented improvements and missing safety features</li>
-			<li>Assembled 10+ custom bicycles including cutting/threading spokes and building wheels on vintage restores and new bike builds</li>
+			<li>Rebuilt a trashed CO2 laser cutter, implementing multiple improvements and missing safety features</li>
+			<li>Selected components and assembled countless custom bicycles including cutting/threading spokes and building wheels on vintage restores through new modern builds</li>
 		</ul>
 	</p>
 </div>

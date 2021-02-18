@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home" id="main" role="main">			
+
+	{% if page.image.feature %}
+	
+			<div class="page-feature">
+				<div class="page-image" id="display">
+					<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				</div><!-- /.page-image -->
+
+			</div><!-- /.page-feature -->
+		
+		{% endif %}
+
+	<div class="wrap" id="home-wrap">
+
+			<div class="page-content">
+				{{ content }}
+			</div><!-- /.page-content -->
+
+<!-- /.wrap -->
+		<!-- <div class="wrap"> -->
+	</div>
+</div>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: Circuit Bent Tape Decks
+date: 2021-01-13 23:27 -0500
+tags: carpentry mechanics plumbing electrical bus
+image:
+  feature: 2016-01_CircuitBentTapeDecks/tapes-3.jpg
+  teaser: 2016-01_CircuitBentTapeDecks/tapes-3.jpg
+photos:
+  set: tapes
+  size: 6
+  gallery: 2016-01_CircuitBentTapeDecks
+url: circuit-bent-tape-decks
+---
+
+The first inklings of this project began sometime around 2014 or 2015. A friend's birthday was coming up and I wanted to do something unique for her. She was into weird retro music stuff and I found a cool portable cassette deck in a thrift store, based on the (faux?) brushed metal finishes and general aesthetic I estimated it was of 70's vintage. 
+
+That alone wouldn't be enough for me though, so I took it apart, modified the motor's integrated speed regulation board to have an external potentiometer instead of internal trimpot and popped it back together. The result was a tape deck that could function as normal, but has a playback/recording speed control knob added. Always looking for new and strange ways to make sounds, I set out collecting as many of these old decks as I could find. Once I had acquired a handful of sacrificial decks, a small cache of parts, and 6 identical model decks, I knew I was ready to really get into the grit. 
+
+Throughout 2015/2016 I tinkered with this as a side project, sometimes investing a lot of time and others neglecting the project entirely. The plan was to get progressively more sophisticated in the modifications I was performing, and ultimately I hoped to have two heavily modified tape decks which could be played like instruments, paired with four speed-variable decks with loop tapes which could serve as loop recording banks. Some aspects of the project played out, others didn't, and ultimately in 2016 when I sold my bus (my home, and workshop at the time) I had less than 24 hours to move everything out. 
+
+This meant workbenches were hastily cleared into boxes - open cases, loose screws, hanging wires, and scrawled notes all found themselves jumbled into boxes from where they would not see the light of day again. Not until late 2020, when I would finally have the workshop space to have a project like this become active again. While this project is still considered "paused" for the time being, I have looked at the data sheets for the tape recorder's IC and due to my heavily expanded understanding of circuitry since the project began, feel the results of anything I create now will greatly eclipse anything I would have produced then. There is one completed deck from that era that remains in my possession, which will be a nice comparison should this project ever reach a point of fruition.

@@ -12,4 +12,4 @@ I have several qualities that make me adaptable and dynamic in my abilities. The
 
 One area I sorely need to improve upon is documentation. In professional settings, this has never been an issue. Personal projects however often go from idea to fully executed with little more than some scribbles on paper and perhaps a hasty progress photo or two. Some older projects were never photographed at all. This portfolio aims both to share my projects with you and to encourage myself to better document the things I do. I hope you enjoy what you find here.
   
-  -Val Gliozzi
+  - Val Gliozzi

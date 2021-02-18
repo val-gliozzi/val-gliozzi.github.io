@@ -7,7 +7,7 @@ image:
   feature: 2019-10_TechnopaganCostume/technopagan-7.jpg
   teaser: 2019-10_TechnopaganCostume/technopagan-7.jpg
 photos:
-  set: headphones
+  set: technopagan
   size: 10
   gallery: 2019-10_TechnopaganCostume
 url: technopagan-costume

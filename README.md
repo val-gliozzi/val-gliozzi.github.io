@@ -13,3 +13,7 @@ https://jekyllrb.com/docs/posts/
 
 bundle exec jekyll post "My New Post"
 To edit: _posts/
+
+## Theme
+ *  Skinny Bones Jekyll Starter
+Documentation: https://mmistakes.github.io/jekyll-theme-skinny-bones/getting-started/

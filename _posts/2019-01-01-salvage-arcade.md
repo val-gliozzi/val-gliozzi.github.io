@@ -10,7 +10,7 @@ photos:
   set: arcade
   size: 21
   gallery: 2019-01_SalvageArcade
-url: salvage-arcde
+url: salvage-arcade
 ---
 
 This project is a fully functional bar-top style arcade made entirely from materials found in the trash (exceptions: solder, glue, and some of the hardware). The idea was born when I stumbled upon a water-logged arcade cabinet on the side of the road and I thought back to the DDR/House of the Dead dual game cabinet I built as a teenager. 

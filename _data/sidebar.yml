@@ -1,7 +1,13 @@
 # Sidebar links
 
-- title: Bus Restoration
+- title: Bus Conversion
   url: /bus-conversion/
 
-- title: Circuit Bent Tape Decks
-  url: /circuit-bent-tape-decks/
+- title: Salvage Arcade
+  url: /salvage-arcade/
+
+- title: Raspberry PiHAT + Custom Case
+  url: /raspberry-pihat/
+
+- title: Salvage Arcade
+  url: /salvage-arcade/

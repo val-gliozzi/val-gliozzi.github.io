@@ -2,7 +2,7 @@
 layout: post
 title: Swing Bike Collaboration
 date: 2019-10-14 02:30 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: mechanical, welding, metal work, reclaimed material
 image:
   feature: 2019-10_SwingBikeCollaboration/swing-6.jpg
   teaser: 2019-10_SwingBikeCollaboration/swing-6.jpg

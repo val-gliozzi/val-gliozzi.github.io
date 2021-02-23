@@ -2,7 +2,7 @@
 layout: post
 title: Live-in Bus Conversion
 date: 2015-12-01 23:26 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: carpentry, mechanics, vehicle, plumbing, electrical, bus
 image:
   feature: 2015-12_BusConversion/bus-14.jpg
   teaser: 2015-12_BusConversion/bus-14.jpg

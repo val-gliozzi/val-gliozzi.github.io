@@ -2,7 +2,7 @@
 layout: post
 title: TV Hacker Van
 date: 2016-05-01 02:28 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: carpentry, design, tv set
 image:
   feature: 2016-05_TVHackerVan/van-1.jpg
   teaser: 2016-05_TVHackerVan/van-1.jpg

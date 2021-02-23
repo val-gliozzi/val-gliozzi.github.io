@@ -2,7 +2,7 @@
 layout: post
 title: Technopagan Costume
 date: 2019-10-30 02:30 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: textile, electrical, costume, reclaimed material
 image:
   feature: 2019-10_TechnopaganCostume/technopagan-7.jpg
   teaser: 2019-10_TechnopaganCostume/technopagan-7.jpg

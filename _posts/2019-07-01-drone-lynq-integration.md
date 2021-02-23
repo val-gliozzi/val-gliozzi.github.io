@@ -2,7 +2,7 @@
 layout: post
 title: Drone Lynq Integration
 date: 2019-11-14 02:30 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: mechanical, electrical, hacking, integration, retrofit
 image:
   feature: 2019-07_DroneLynqIntegration/drone-1.jpg
   teaser: 2019-07_DroneLynqIntegration/drone-1.jpg

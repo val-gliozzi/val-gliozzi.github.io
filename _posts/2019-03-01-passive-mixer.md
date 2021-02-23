@@ -2,7 +2,7 @@
 layout: post
 title: Passive Mixer
 date: 2019-03-01 02:30 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: electrical, mechanical, design, engineering, DIY
 image:
   feature: 2019-03_PassiveMixer/mixer-3.jpg
   teaser: 2019-03_PassiveMixer/mixer-3.jpg

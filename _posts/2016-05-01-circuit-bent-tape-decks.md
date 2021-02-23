@@ -2,7 +2,7 @@
 layout: post
 title: Circuit Bent Tape Decks
 date: 2016-05-01 23:27 -0500
-tags: carpentry mechanics plumbing electrical bus
+tags: electrical, mechanical, hacking, DIY
 image:
   feature: 2016-01_CircuitBentTapeDecks/tapes-3.jpg
   teaser: 2016-01_CircuitBentTapeDecks/tapes-3.jpg

@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: "Software and hardware engineering, rapid prototyping, fabrication and construction."
 image:
-  feature: 01_FineSolderWork/module-hand-solder-oct2019.jpg
+  feature: 01_FineSolderWork/lynq-smartcompass-revision-sept2018.jpg
 
 ---
 

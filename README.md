@@ -7,11 +7,13 @@ Documentation: https://mmistakes.github.io/jekyll-theme-skinny-bones/getting-sta
 
 
 ## Local build
-To serve locally: bundle exec jekyll serve
-Go to: http://localhost:4000/
-To stop: CTRL + C
+To serve locally: 
+- bundle exec jekyll serve
+- Go to: http://localhost:4000/
+- To stop: CTRL + C
 
-To build: bundle exec jekyll build
+To build: 
+- bundle exec jekyll build
 
 ## Credentials
 Git credentials for local builds
